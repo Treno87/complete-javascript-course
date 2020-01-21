@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "C:\\Users\\treno\\Documents\\GitHub\\JavaScript30"
+	},
+	{
+		"path": "C:\\Bitnami\\wampstack-7.3.12-0\\apache2\\htdocs"
+	},
+	{
+		"path": "D:\\프로그래밍 공부하기\\The Complete Javascript Course 2020  Build Real Project\\complete-javascript-course-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "complete-javascript-course-master"
+  }
+}
